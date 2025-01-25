@@ -40,6 +40,12 @@ Compile the Code
 
 ```plaintext
 javac quiz/application/*.java
+
+```
+Run the Application
+
+```plaintext
+java quiz.application.Rules
 ```
 
 **File Structure**
