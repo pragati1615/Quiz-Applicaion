@@ -37,14 +37,16 @@ Ensure that the icons/score.png resource is correctly located in the src directo
 3. **Compile and Run**
 
 **File Structure**
+```plaintext
 simple-minds-quiz/
 ├── quiz/application/
-│   ├── Login.java
-│   ├── Quiz.java
-│   ├── Rules.java
-│   ├── Score.java
-│   └── ...
+│ ├── Login.java
+│ ├── Quiz.java
+│ ├── Rules.java
+│ ├── Score.java
+│ └── ...
 ├── icons/
-│   └── score.png
+│ └── score.png
 └── README.md
+```
 
