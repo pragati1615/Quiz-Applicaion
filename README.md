@@ -36,6 +36,12 @@ Ensure that the icons/score.png resource is correctly located in the src directo
 
 3. **Compile and Run**
 
+Compile the Code
+
+```plaintext
+javac quiz/application/*.java
+```
+
 **File Structure**
 ```plaintext
 simple-minds-quiz/
